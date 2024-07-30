@@ -1,2 +1,2 @@
 # polytech_portfolio
-test
+ポリテク在学中に作成したポートフォリオ
